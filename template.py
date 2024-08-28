@@ -14,7 +14,7 @@ list_of_files=[
     "src/pipline/training_pipline.py",
     "src/pipline/prediction_pipline.py",
     "src/logger/logging.py",
-    "src/exception/exception",
+    "src/exception/exception.py",
     "src/utils/__init__.py",
     "src/utils/utils.py",
     "tests/unit/__init__.py",
